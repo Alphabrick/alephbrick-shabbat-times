@@ -1,0 +1,29 @@
+city,state,tz,c0 (2026-11-20 candles),end (2026-11-21 end)
+Brooklyn,NY,America/New_York,2026-11-20 16:16,2026-11-21 17:17
+Manhattan,NY,America/New_York,2026-11-20 16:15,2026-11-21 17:17
+Queens,NY,America/New_York,2026-11-20 16:15,2026-11-21 17:17
+Five Towns,NY,America/New_York,2026-11-20 16:15,2026-11-21 17:17
+Monsey,NY,America/New_York,2026-11-20 16:15,2026-11-21 17:17
+Lakewood,NJ,America/New_York,2026-11-20 16:18,2026-11-21 17:19
+Passaic,NJ,America/New_York,2026-11-20 16:16,2026-11-21 17:18
+Teaneck,NJ,America/New_York,2026-11-20 16:15,2026-11-21 17:17
+Philadelphia,PA,America/New_York,2026-11-20 16:22,2026-11-21 17:23
+Pittsburgh,PA,America/New_York,2026-11-20 16:40,2026-11-21 17:42
+Baltimore,MD,America/New_York,2026-11-20 16:30,2026-11-21 17:30
+Washington,DC,America/New_York,2026-11-20 16:32,2026-11-21 17:33
+Boston,MA,America/New_York,2026-11-20 16:00,2026-11-21 17:03
+Cleveland,OH,America/New_York,2026-11-20 16:44,2026-11-21 17:47
+Detroit,MI,America/Detroit,2026-11-20 16:48,2026-11-21 17:51
+Chicago,IL,America/Chicago,2026-11-20 16:07,2026-11-21 17:10
+St. Louis,MO,America/Chicago,2026-11-20 16:26,2026-11-21 17:26
+Atlanta,GA,America/New_York,2026-11-20 17:13,2026-11-21 18:11
+Miami,FL,America/New_York,2026-11-20 17:12,2026-11-21 18:06
+Boca Raton,FL,America/New_York,2026-11-20 17:10,2026-11-21 18:05
+Dallas,TX,America/Chicago,2026-11-20 17:05,2026-11-21 18:02
+Houston,TX,America/Chicago,2026-11-20 17:05,2026-11-21 18:01
+Denver,CO,America/Denver,2026-11-20 16:22,2026-11-21 17:23
+Phoenix,AZ,America/Phoenix,2026-11-20 17:05,2026-11-21 18:02
+Las Vegas,NV,America/Los_Angeles,2026-11-20 16:11,2026-11-21 17:10
+Los Angeles,CA,America/Los_Angeles,2026-11-20 16:28,2026-11-21 17:26
+San Francisco,CA,America/Los_Angeles,2026-11-20 16:36,2026-11-21 17:36
+Seattle,WA,America/Los_Angeles,2026-11-20 16:09,2026-11-21 17:17

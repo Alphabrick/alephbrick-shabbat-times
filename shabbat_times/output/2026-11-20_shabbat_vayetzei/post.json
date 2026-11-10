@@ -1,0 +1,59 @@
+{
+ "id": "2026-11-20_shabbat",
+ "kind": "shabbat",
+ "title_en": "Parshat Vayetzei",
+ "title_he": "פרשת ויצא",
+ "hebrew_dates": [
+  "י״א כסלו תשפ״ז"
+ ],
+ "post_time_et": "2026-11-20T08:00:00-05:00",
+ "story_reshare_et": "",
+ "files": {
+  "4x5": [
+   "2026-11-20_shabbat_vayetzei/ABC_TIMES_2026-11-20_shabbat_4x5_s1.png"
+  ],
+  "1x1": [
+   "2026-11-20_shabbat_vayetzei/ABC_TIMES_2026-11-20_shabbat_1x1_s1a.png",
+   "2026-11-20_shabbat_vayetzei/ABC_TIMES_2026-11-20_shabbat_1x1_s1b.png"
+  ],
+  "9x16": [
+   "2026-11-20_shabbat_vayetzei/ABC_TIMES_2026-11-20_shabbat_9x16_s1.png"
+  ]
+ },
+ "feed_carousel": [
+  "2026-11-20_shabbat_vayetzei/ABC_TIMES_2026-11-20_shabbat_4x5_s1.png"
+ ],
+ "story": [
+  "2026-11-20_shabbat_vayetzei/ABC_TIMES_2026-11-20_shabbat_9x16_s1.png"
+ ],
+ "square": [
+  "2026-11-20_shabbat_vayetzei/ABC_TIMES_2026-11-20_shabbat_1x1_s1a.png",
+  "2026-11-20_shabbat_vayetzei/ABC_TIMES_2026-11-20_shabbat_1x1_s1b.png"
+ ],
+ "torah_only": true,
+ "status": "DRAFT",
+ "international": {
+  "mode": "carousel",
+  "post_time_et": "2026-11-20T08:00:00-05:00",
+  "files": {
+   "4x5": [
+    "2026-11-20_shabbat_vayetzei/ABC_TIMES_2026-11-20_shabbat_intl_4x5_s1.png"
+   ],
+   "1x1": [
+    "2026-11-20_shabbat_vayetzei/ABC_TIMES_2026-11-20_shabbat_intl_1x1_s1a.png",
+    "2026-11-20_shabbat_vayetzei/ABC_TIMES_2026-11-20_shabbat_intl_1x1_s1b.png"
+   ],
+   "9x16": [
+    "2026-11-20_shabbat_vayetzei/ABC_TIMES_2026-11-20_shabbat_intl_9x16_s1.png"
+   ]
+  },
+  "israel_label": "Parshat Vayetzei",
+  "israel_label_he": "פרשת ויצא",
+  "israel_differs": false
+ },
+ "background": {
+  "concept": "dusk",
+  "variant": "shabbat"
+ },
+ "rabbinic_screen": "Content PASS (internal AI screen, abc-rabbinic-review v2.0, not a rabbi); OWNER POLICY DECISION on the zmanim opinions shown (end = tzeit 8.5 deg; Tisha B'Av end 6.45 deg as on Hebcal); owner visual approval required"
+}
