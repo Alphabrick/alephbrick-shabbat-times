@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+shabbat_times/post.out
+shabbat_times/wa.list
+shabbat_times/wa_body.md
+shabbat_times/_board/
+shabbat_times/_qa/
