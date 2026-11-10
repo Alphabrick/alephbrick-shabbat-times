@@ -1,0 +1,74 @@
+date,brand_title,brand_hebrew,hebcal_form_en,hebcal_form_he,hebcal_title,hebcal_hebrew,match
+2026-11-14,Parshat Toldot,פרשת תולדות,Toldot,פרשת תולדות,['Toldot'],['פרשת תולדות'],True
+2026-11-21,Parshat Vayetzei,פרשת ויצא,Vayetzei,פרשת ויצא,['Vayetzei'],['פרשת ויצא'],True
+2026-11-28,Parshat Vayishlach,פרשת וישלח,Vayishlach,פרשת וישלח,['Vayishlach'],['פרשת וישלח'],True
+2026-12-05,Parshat Vayeshev,פרשת וישב,Vayeshev,פרשת וישב,['Vayeshev'],['פרשת וישב'],True
+2026-12-12,Parshat Miketz,פרשת מקץ,Miketz,פרשת מקץ,['Miketz'],['פרשת מקץ'],True
+2026-12-19,Parshat Vayigash,פרשת ויגש,Vayigash,פרשת ויגש,['Vayigash'],['פרשת ויגש'],True
+2026-12-20,Asara B’Tevet,עשרה בטבת,,,['Asara B’Tevet'],['עשרה בטבת'],True
+2026-12-26,Parshat Vayechi,פרשת ויחי,Vayechi,פרשת ויחי,['Vayechi'],['פרשת ויחי'],True
+2027-01-02,Parshat Shemot,פרשת שמות,Shemot,פרשת שמות,['Shemot'],['פרשת שמות'],True
+2027-01-09,Parshat Va’era,פרשת וארא,Vaera,פרשת וארא,['Vaera'],['פרשת וארא'],True
+2027-01-16,Parshat Bo,פרשת בא,Bo,פרשת בא,['Bo'],['פרשת בא'],True
+2027-01-23,Parshat Beshalach,פרשת בשלח,Beshalach,פרשת בשלח,['Beshalach'],['פרשת בשלח'],True
+2027-01-30,Parshat Yitro,פרשת יתרו,Yitro,פרשת יתרו,['Yitro'],['פרשת יתרו'],True
+2027-02-06,Parshat Mishpatim,פרשת משפטים,Mishpatim,פרשת משפטים,['Mishpatim'],['פרשת משפטים'],True
+2027-02-13,Parshat Terumah,פרשת תרומה,Terumah,פרשת תרומה,['Terumah'],['פרשת תרומה'],True
+2027-02-20,Parshat Tetzaveh,פרשת תצוה,Tetzaveh,פרשת תצוה,['Tetzaveh'],['פרשת תצוה'],True
+2027-02-27,Parshat Ki Tisa,פרשת כי תשא,Ki Tisa,פרשת כי תשא,['Ki Tisa'],['פרשת כי תשא'],True
+2027-03-06,Parshat Vayakhel,פרשת ויקהל,Vayakhel,פרשת ויקהל,['Vayakhel'],['פרשת ויקהל'],True
+2027-03-13,Parshat Pekudei,פרשת פקודי,Pekudei,פרשת פקודי,['Pekudei'],['פרשת פקודי'],True
+2027-03-20,Parshat Vayikra,פרשת ויקרא,Vayikra,פרשת ויקרא,['Vayikra'],['פרשת ויקרא'],True
+2027-03-22,Ta’anit Esther,תענית אסתר,,,['Ta’anit Esther'],['תענית אסתר'],True
+2027-03-27,Parshat Tzav,פרשת צו,Tzav,פרשת צו,['Tzav'],['פרשת צו'],True
+2027-04-03,Parshat Shemini,פרשת שמיני,Shmini,פרשת שמיני,['Shmini'],['פרשת שמיני'],True
+2027-04-10,Parshat Tazria,פרשת תזריע,Tazria,פרשת תזריע,['Tazria'],['פרשת תזריע'],True
+2027-04-17,Parshat Metzora,פרשת מצורע,Metzora,פרשת מצרע,['Metzora'],['פרשת מצרע'],True
+2027-04-22,Pesach,פסח,,,,"['פסח א׳', 'פסח ב׳']",True
+2027-04-28,Pesach,פסח,,,,"['פסח ז׳', 'פסח ח׳']",True
+2027-05-01,Parshat Acharei Mot,פרשת אחרי מות,Achrei Mot,פרשת אחרי מות,['Achrei Mot'],['פרשת אחרי מות'],True
+2027-05-08,Parshat Kedoshim,פרשת קדושים,Kedoshim,פרשת קדשים,['Kedoshim'],['פרשת קדשים'],True
+2027-05-15,Parshat Emor,פרשת אמור,Emor,פרשת אמור,['Emor'],['פרשת אמור'],True
+2027-05-22,Parshat Behar,פרשת בהר,Behar,פרשת בהר,['Behar'],['פרשת בהר'],True
+2027-05-29,Parshat Bechukotai,פרשת בחוקותי,Bechukotai,פרשת בחקתי,['Bechukotai'],['פרשת בחקתי'],True
+2027-06-05,Parshat Bamidbar,פרשת במדבר,Bamidbar,פרשת במדבר,['Bamidbar'],['פרשת במדבר'],True
+2027-06-11,Shavuot,שבועות,,,,"['שבועות א׳', 'שבועות ב׳']",True
+2027-06-19,Parshat Nasso,פרשת נשא,Nasso,פרשת נשא,['Nasso'],['פרשת נשא'],True
+2027-06-26,Parshat Beha’alotecha,פרשת בהעלותך,Beha’alotcha,פרשת בהעלתך,['Beha’alotcha'],['פרשת בהעלתך'],True
+2027-07-03,Parshat Shelach,פרשת שלח,Sh’lach,פרשת שלח־לך,['Sh’lach'],['פרשת שלח־לך'],True
+2027-07-10,Parshat Korach,פרשת קרח,Korach,פרשת קורח,['Korach'],['פרשת קורח'],True
+2027-07-17,Parshat Chukat-Balak,פרשת חקת־בלק,Chukat-Balak,פרשת חוקת־בלק,['Chukat-Balak'],['פרשת חוקת־בלק'],True
+2027-07-22,Tzom Tammuz,צום י״ז בתמוז,,,['Tzom Tammuz'],['צום י״ז בתמוז'],True
+2027-07-24,Parshat Pinchas,פרשת פינחס,Pinchas,פרשת פינחס,['Pinchas'],['פרשת פינחס'],True
+2027-07-31,Parshat Matot-Masei,פרשת מטות־מסעי,Matot-Masei,פרשת מטות־מסעי,['Matot-Masei'],['פרשת מטות־מסעי'],True
+2027-08-07,Parshat Devarim,פרשת דברים,Devarim,פרשת דברים,['Devarim'],['פרשת דברים'],True
+2027-08-12,Tisha B’Av,תשעה באב,,,['Tish’a B’Av'],['תשעה באב'],True
+2027-08-14,Parshat Va’etchanan,פרשת ואתחנן,Vaetchanan,פרשת ואתחנן,['Vaetchanan'],['פרשת ואתחנן'],True
+2027-08-21,Parshat Eikev,פרשת עקב,Eikev,פרשת עקב,['Eikev'],['פרשת עקב'],True
+2027-08-28,Parshat Re’eh,פרשת ראה,Re’eh,פרשת ראה,['Re’eh'],['פרשת ראה'],True
+2027-09-04,Parshat Shoftim,פרשת שופטים,Shoftim,פרשת שופטים,['Shoftim'],['פרשת שופטים'],True
+2027-09-11,Parshat Ki Teitzei,פרשת כי תצא,Ki Teitzei,פרשת כי־תצא,['Ki Teitzei'],['פרשת כי־תצא'],True
+2027-09-18,Parshat Ki Tavo,פרשת כי תבוא,Ki Tavo,פרשת כי־תבוא,['Ki Tavo'],['פרשת כי־תבוא'],True
+2027-09-25,Parshat Nitzavim-Vayelech,פרשת נצבים־וילך,Nitzavim-Vayeilech,פרשת נצבים־וילך,['Nitzavim-Vayeilech'],['פרשת נצבים־וילך'],True
+2027-10-02,Rosh Hashanah,ראש השנה,,,,"['ראש השנה 5788', 'ראש השנה ב׳']",True
+2027-10-04,Tzom Gedaliah,צום גדליה,,,['Tzom Gedaliah'],['צום גדליה'],True
+2027-10-09,Parshat Ha’azinu,פרשת האזינו,Ha’azinu,פרשת האזינו,['Ha’azinu'],['פרשת האזינו'],True
+2027-10-11,Yom Kippur,יום כיפור,,,,['יום כיפור'],True
+2027-10-16,Sukkot,סוכות,,,,"['סוכות א׳', 'סוכות ב׳']",True
+2027-10-23,Shemini Atzeret & Simchat Torah,שמיני עצרת · שמחת תורה,,,,"['שמיני עצרת', 'שמחת תורה']",True
+2027-10-30,Parshat Bereishit,פרשת בראשית,Bereshit,פרשת בראשית,['Bereshit'],['פרשת בראשית'],True
+2027-11-06,Parshat Noach,פרשת נח,Noach,פרשת נח,['Noach'],['פרשת נח'],True
+2027-11-13,Parshat Lech Lecha,פרשת לך לך,Lech-Lecha,פרשת לך־לך,['Lech-Lecha'],['פרשת לך־לך'],True
+2027-11-20,Parshat Vayera,פרשת וירא,Vayera,פרשת וירא,['Vayera'],['פרשת וירא'],True
+2027-11-27,Parshat Chayei Sarah,פרשת חיי שרה,Chayei Sara,פרשת חיי שרה,['Chayei Sara'],['פרשת חיי שרה'],True
+2027-12-04,Parshat Toldot,פרשת תולדות,Toldot,פרשת תולדות,['Toldot'],['פרשת תולדות'],True
+2027-12-11,Parshat Vayetzei,פרשת ויצא,Vayetzei,פרשת ויצא,['Vayetzei'],['פרשת ויצא'],True
+2027-12-18,Parshat Vayishlach,פרשת וישלח,Vayishlach,פרשת וישלח,['Vayishlach'],['פרשת וישלח'],True
+2027-12-25,Parshat Vayeshev,פרשת וישב,Vayeshev,פרשת וישב,['Vayeshev'],['פרשת וישב'],True
+2028-01-01,Parshat Miketz,פרשת מקץ,Miketz,פרשת מקץ,['(after the fetched window)'],[],True
+2027-06-12 (Israel),Parshat Nasso,פרשת נשא,Nasso,פרשת נשא,['Nasso'],['פרשת נשא'],True
+2027-06-19 (Israel),Parshat Beha’alotecha,פרשת בהעלותך,Beha’alotcha,פרשת בהעלתך,"[""Beha'alotcha""]",['פרשת בהעלתך'],True
+2027-06-26 (Israel),Parshat Shelach,פרשת שלח,Sh’lach,פרשת שלח־לך,"[""Sh'lach""]",['פרשת שלח־לך'],True
+2027-07-03 (Israel),Parshat Korach,פרשת קרח,Korach,פרשת קורח,['Korach'],['פרשת קורח'],True
+2027-07-10 (Israel),Parshat Chukat,פרשת חקת,Chukat,פרשת חוקת,['Chukat'],['פרשת חוקת'],True
+2027-07-17 (Israel),Parshat Balak,פרשת בלק,Balak,פרשת בלק,['Balak'],['פרשת בלק'],True

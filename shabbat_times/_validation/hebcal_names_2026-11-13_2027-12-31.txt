@@ -1,0 +1,78 @@
+Source: Hebcal REST API (https://www.hebcal.com/hebcal?v=1&cfg=json&s=on|maj=on|mf=on ...&start=2026-11-13&end=2027-12-31), fetched 2026-11-09 via WebFetch.
+date | title | hebrew
+-- Parshiyot (s=on, Diaspora) --
+2026-11-14 | Parashat Toldot | פרשת תולדות
+2026-11-21 | Parashat Vayetzei | פרשת ויצא
+2026-11-28 | Parashat Vayishlach | פרשת וישלח
+2026-12-05 | Parashat Vayeshev | פרשת וישב
+2026-12-12 | Parashat Miketz | פרשת מקץ
+2026-12-19 | Parashat Vayigash | פרשת ויגש
+2026-12-26 | Parashat Vayechi | פרשת ויחי
+2027-01-02 | Parashat Shemot | פרשת שמות
+2027-01-09 | Parashat Vaera | פרשת וארא
+2027-01-16 | Parashat Bo | פרשת בא
+2027-01-23 | Parashat Beshalach | פרשת בשלח
+2027-01-30 | Parashat Yitro | פרשת יתרו
+2027-02-06 | Parashat Mishpatim | פרשת משפטים
+2027-02-13 | Parashat Terumah | פרשת תרומה
+2027-02-20 | Parashat Tetzaveh | פרשת תצוה
+2027-02-27 | Parashat Ki Tisa | פרשת כי תשא
+2027-03-06 | Parashat Vayakhel | פרשת ויקהל
+2027-03-13 | Parashat Pekudei | פרשת פקודי
+2027-03-20 | Parashat Vayikra | פרשת ויקרא
+2027-03-27 | Parashat Tzav | פרשת צו
+2027-04-03 | Parashat Shmini | פרשת שמיני
+2027-04-10 | Parashat Tazria | פרשת תזריע
+2027-04-17 | Parashat Metzora | פרשת מצרע
+2027-05-01 | Parashat Achrei Mot | פרשת אחרי מות
+2027-05-08 | Parashat Kedoshim | פרשת קדשים
+2027-05-15 | Parashat Emor | פרשת אמור
+2027-05-22 | Parashat Behar | פרשת בהר
+2027-05-29 | Parashat Bechukotai | פרשת בחקתי
+2027-06-05 | Parashat Bamidbar | פרשת במדבר
+2027-06-19 | Parashat Nasso | פרשת נשא
+2027-06-26 | Parashat Beha’alotcha | פרשת בהעלתך
+2027-07-03 | Parashat Sh’lach | פרשת שלח־לך
+2027-07-10 | Parashat Korach | פרשת קורח
+2027-07-17 | Parashat Chukat-Balak | פרשת חוקת־בלק
+2027-07-24 | Parashat Pinchas | פרשת פינחס
+2027-07-31 | Parashat Matot-Masei | פרשת מטות־מסעי
+2027-08-07 | Parashat Devarim | פרשת דברים
+2027-08-14 | Parashat Vaetchanan | פרשת ואתחנן
+2027-08-21 | Parashat Eikev | פרשת עקב
+2027-08-28 | Parashat Re’eh | פרשת ראה
+2027-09-04 | Parashat Shoftim | פרשת שופטים
+2027-09-11 | Parashat Ki Teitzei | פרשת כי־תצא
+2027-09-18 | Parashat Ki Tavo | פרשת כי־תבוא
+2027-09-25 | Parashat Nitzavim-Vayeilech | פרשת נצבים־וילך
+2027-10-09 | Parashat Ha’azinu | פרשת האזינו
+2027-10-30 | Parashat Bereshit | פרשת בראשית
+2027-11-06 | Parashat Noach | פרשת נח
+2027-11-13 | Parashat Lech-Lecha | פרשת לך־לך
+2027-11-20 | Parashat Vayera | פרשת וירא
+2027-11-27 | Parashat Chayei Sara | פרשת חיי שרה
+2027-12-04 | Parashat Toldot | פרשת תולדות
+2027-12-11 | Parashat Vayetzei | פרשת ויצא
+2027-12-18 | Parashat Vayishlach | פרשת וישלח
+2027-12-25 | Parashat Vayeshev | פרשת וישב
+-- Yom Tov (maj=on, yomtov flag) --
+2027-04-22 | Pesach I | פסח א׳
+2027-04-23 | Pesach II | פסח ב׳
+2027-04-28 | Pesach VII | פסח ז׳
+2027-04-29 | Pesach VIII | פסח ח׳
+2027-06-11 | Shavuot I | שבועות א׳
+2027-06-12 | Shavuot II | שבועות ב׳
+2027-10-02 | Rosh Hashana 5788 | ראש השנה 5788
+2027-10-03 | Rosh Hashana II | ראש השנה ב׳
+2027-10-11 | Yom Kippur | יום כיפור
+2027-10-16 | Sukkot I | סוכות א׳
+2027-10-17 | Sukkot II | סוכות ב׳
+2027-10-23 | Shmini Atzeret | שמיני עצרת
+2027-10-24 | Simchat Torah | שמחת תורה
+2027-08-12 | Tish’a B’Av | תשעה באב
+-- Minor fasts (mf=on) --
+2026-12-20 | Asara B’Tevet | עשרה בטבת
+2027-03-22 | Ta’anit Esther | תענית אסתר
+2027-04-21 | Ta’anit Bechorot | תענית בכורות
+2027-07-22 | Tzom Tammuz | צום י״ז בתמוז
+2027-10-04 | Tzom Gedaliah | צום גדליה

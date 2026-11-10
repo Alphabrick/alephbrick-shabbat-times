@@ -1,0 +1,191 @@
+# Hebcal REST API (WebFetch, fetched 2026-11-09). Params: v=1 cfg=json maj=on min=on mf=on s=on c=on M=on geonameid=<id> (+ i=on for Israel); no b= (Hebcal default minutes).
+# city | geonameid | lat | lon | tzid
+LOC|Toronto|6167865|43.65333|-79.38389|America/Toronto
+LOC|Montreal|6077243|45.50884|-73.58781|America/Toronto
+LOC|London|2643743|51.50853|-0.12574|Europe/London
+LOC|Paris|2988507|48.85341|2.3488|Europe/Paris
+LOC|Antwerp|2803138|51.22047|4.40026|Europe/Brussels
+LOC|Johannesburg|993800|-26.20227|28.04363|Africa/Johannesburg
+LOC|Melbourne|2158177|-37.814|144.96332|Australia/Melbourne
+LOC|Buenos Aires|3435910|-34.61315|-58.37723|America/Argentina/Buenos_Aires
+LOC|Mexico City|3530597|19.42847|-99.12766|America/Mexico_City
+LOC|Jerusalem|281184|31.76904|35.21633|Asia/Jerusalem
+LOC|Tel Aviv|293397|32.08088|34.78057|Asia/Jerusalem
+LOC|Bnei Brak|295514|32.08074|34.8338|Asia/Jerusalem
+LOC|Haifa|294801|32.81303|34.99928|Asia/Jerusalem
+# city | local datetime | hebcal title
+Toronto|2026-12-18T16:24|Candle lighting
+Toronto|2026-12-19T17:31|Havdalah
+Toronto|2026-12-20T06:14|Fast begins
+Toronto|2026-12-20T17:23|Fast ends
+Montreal|2026-12-18T15:54|Candle lighting
+Montreal|2026-12-19T17:03|Havdalah
+Montreal|2026-12-20T05:54|Fast begins
+Montreal|2026-12-20T16:54|Fast ends
+London|2026-12-18T15:34|Candle lighting
+London|2026-12-19T16:51|Havdalah
+London|2026-12-20T06:12|Fast begins
+London|2026-12-20T16:41|Fast ends
+Paris|2026-12-18T16:36|Candle lighting
+Paris|2026-12-19T17:50|Havdalah
+Paris|2026-12-20T06:56|Fast begins
+Paris|2026-12-20T17:40|Fast ends
+Antwerp|2026-12-18T16:17|Candle lighting
+Antwerp|2026-12-19T17:34|Havdalah
+Antwerp|2026-12-20T06:53|Fast begins
+Antwerp|2026-12-20T17:24|Fast ends
+Johannesburg|2026-12-18T18:39|Candle lighting
+Johannesburg|2026-12-19T19:38|Havdalah
+Johannesburg|2026-12-20T03:52|Fast begins
+Johannesburg|2026-12-20T19:31|Fast ends
+Melbourne|2026-12-18T20:22|Candle lighting
+Melbourne|2026-12-19T21:28|Havdalah
+Melbourne|2026-12-20T04:14|Fast begins
+Melbourne|2026-12-20T21:19|Fast ends
+Buenos Aires|2026-12-18T19:46|Candle lighting
+Buenos Aires|2026-12-19T20:49|Havdalah
+Buenos Aires|2026-12-20T04:04|Fast begins
+Buenos Aires|2026-12-20T20:42|Fast ends
+Mexico City|2026-12-18T17:44|Candle lighting
+Mexico City|2026-12-19T18:38|Havdalah
+Mexico City|2026-12-20T05:55|Fast begins
+Mexico City|2026-12-20T18:32|Fast ends
+Jerusalem|2026-12-18T15:58|Candle lighting
+Jerusalem|2026-12-19T17:18|Havdalah
+Jerusalem|2026-12-20T05:17|Fast begins
+Jerusalem|2026-12-20T16:54|Fast ends
+Tel Aviv|2026-12-18T16:19|Candle lighting
+Tel Aviv|2026-12-19T17:19|Havdalah
+Tel Aviv|2026-12-20T05:19|Fast begins
+Tel Aviv|2026-12-20T16:55|Fast ends
+Bnei Brak|2026-12-18T16:18|Candle lighting
+Bnei Brak|2026-12-19T17:19|Havdalah
+Bnei Brak|2026-12-20T05:19|Fast begins
+Bnei Brak|2026-12-20T16:55|Fast ends
+Haifa|2026-12-18T16:06|Candle lighting
+Haifa|2026-12-19T17:17|Havdalah
+Haifa|2026-12-20T05:19|Fast begins
+Haifa|2026-12-20T16:52|Fast ends
+Jerusalem|2027-04-21T18:31|Candle lighting
+Jerusalem|2027-04-22T19:51|Havdalah
+Jerusalem|2027-04-23T18:33|Candle lighting
+Jerusalem|2027-04-24T19:52|Havdalah
+Toronto|2027-04-21T04:51|Fast begins (Ta'anit Bechorot)
+Toronto|2027-04-21T19:50|Candle lighting
+Toronto|2027-04-22T20:55|Candle lighting (after nightfall, 2nd night)
+Toronto|2027-04-23T19:52|Candle lighting
+Toronto|2027-04-24T20:58|Havdalah
+Montreal|2027-04-21T04:21|Fast begins (Ta'anit Bechorot)
+Montreal|2027-04-21T19:30|Candle lighting
+Montreal|2027-04-22T20:37|Candle lighting (after nightfall, 2nd night)
+Montreal|2027-04-23T19:32|Candle lighting
+Montreal|2027-04-24T20:40|Havdalah
+London|2027-04-21T03:56|Fast begins (Ta'anit Bechorot)
+London|2027-04-21T19:48|Candle lighting
+London|2027-04-22T21:04|Candle lighting (after nightfall, 2nd night)
+London|2027-04-23T19:52|Candle lighting
+London|2027-04-24T21:08|Havdalah
+Paris|2027-04-21T05:02|Fast begins (Ta'anit Bechorot)
+Paris|2027-04-21T20:32|Candle lighting
+Paris|2027-04-22T21:44|Candle lighting (after nightfall, 2nd night)
+Paris|2027-04-23T20:35|Candle lighting
+Paris|2027-04-24T21:47|Havdalah
+Antwerp|2027-04-21T04:40|Fast begins (Ta'anit Bechorot)
+Antwerp|2027-04-21T20:29|Candle lighting
+Antwerp|2027-04-22T21:44|Candle lighting (after nightfall, 2nd night)
+Antwerp|2027-04-23T20:33|Candle lighting
+Antwerp|2027-04-24T21:48|Havdalah
+Johannesburg|2027-04-21T05:17|Fast begins (Ta'anit Bechorot)
+Johannesburg|2027-04-21T17:28|Candle lighting
+Johannesburg|2027-04-22T18:20|Candle lighting (after nightfall, 2nd night)
+Johannesburg|2027-04-23T17:26|Candle lighting
+Johannesburg|2027-04-24T18:19|Havdalah
+Melbourne|2027-04-21T05:33|Fast begins (Ta'anit Bechorot)
+Melbourne|2027-04-21T17:27|Candle lighting
+Melbourne|2027-04-22T18:24|Candle lighting (after nightfall, 2nd night)
+Melbourne|2027-04-23T17:25|Candle lighting
+Melbourne|2027-04-24T18:22|Havdalah
+Buenos Aires|2027-04-21T06:06|Fast begins (Ta'anit Bechorot)
+Buenos Aires|2027-04-21T18:04|Candle lighting
+Buenos Aires|2027-04-22T18:59|Candle lighting (after nightfall, 2nd night)
+Buenos Aires|2027-04-23T18:02|Candle lighting
+Buenos Aires|2027-04-24T18:57|Havdalah
+Mexico City|2027-04-21T05:07|Fast begins (Ta'anit Bechorot)
+Mexico City|2027-04-21T18:38|Candle lighting
+Mexico City|2027-04-22T19:30|Candle lighting (after nightfall, 2nd night)
+Mexico City|2027-04-23T18:38|Candle lighting
+Mexico City|2027-04-24T19:31|Havdalah
+Tel Aviv|2027-04-21T04:49|Fast begins (Ta'anit Bechorot)
+Tel Aviv|2027-04-21T18:54|Candle lighting
+Tel Aviv|2027-04-22T19:53|Havdalah (Israel: one-day Yom Tov)
+Tel Aviv|2027-04-23T18:55|Candle lighting
+Tel Aviv|2027-04-24T19:54|Havdalah
+Bnei Brak|2027-04-21T04:49|Fast begins (Ta'anit Bechorot)
+Bnei Brak|2027-04-21T18:53|Candle lighting
+Bnei Brak|2027-04-22T19:53|Havdalah (Israel: one-day Yom Tov)
+Bnei Brak|2027-04-23T18:55|Candle lighting
+Bnei Brak|2027-04-24T19:54|Havdalah
+Haifa|2027-04-21T04:46|Fast begins (Ta'anit Bechorot)
+Haifa|2027-04-21T18:44|Candle lighting
+Haifa|2027-04-22T19:53|Havdalah (Israel: one-day Yom Tov)
+Haifa|2027-04-23T18:45|Candle lighting
+Haifa|2027-04-24T19:55|Havdalah
+Toronto|2027-06-10T20:40|Candle lighting
+Toronto|2027-06-11T20:40|Candle lighting
+Toronto|2027-06-12T21:54|Havdalah
+Montreal|2027-06-10T20:24|Candle lighting
+Montreal|2027-06-11T20:24|Candle lighting
+Montreal|2027-06-12T21:41|Havdalah
+London|2027-06-10T20:58|Candle lighting
+London|2027-06-11T20:59|Candle lighting
+London|2027-06-12T22:32|Havdalah
+Paris|2027-06-10T21:34|Candle lighting
+Paris|2027-06-11T21:35|Candle lighting
+Paris|2027-06-12T23:00|Havdalah
+Antwerp|2027-06-10T21:38|Candle lighting
+Antwerp|2027-06-11T21:39|Candle lighting
+Antwerp|2027-06-12T23:11|Havdalah
+Johannesburg|2027-06-10T17:05|Candle lighting
+Johannesburg|2027-06-11T17:05|Candle lighting
+Johannesburg|2027-06-12T18:01|Havdalah
+Melbourne|2027-06-10T16:49|Candle lighting
+Melbourne|2027-06-11T16:49|Candle lighting
+Melbourne|2027-06-12T17:50|Havdalah
+Buenos Aires|2027-06-10T17:31|Candle lighting
+Buenos Aires|2027-06-11T17:31|Candle lighting
+Buenos Aires|2027-06-12T18:30|Havdalah
+Mexico City|2027-06-10T18:56|Candle lighting
+Mexico City|2027-06-11T18:56|Candle lighting
+Mexico City|2027-06-12T19:52|Havdalah
+Jerusalem|2027-06-10T19:04|Candle lighting
+Jerusalem|2027-06-11T19:04|Candle lighting
+Jerusalem|2027-06-12T20:27|Havdalah
+Tel Aviv|2027-06-10T19:26|Candle lighting
+Tel Aviv|2027-06-11T19:27|Candle lighting
+Tel Aviv|2027-06-12T20:30|Havdalah
+Bnei Brak|2027-06-10T19:26|Candle lighting
+Bnei Brak|2027-06-11T19:26|Candle lighting
+Bnei Brak|2027-06-12T20:30|Havdalah
+Haifa|2027-06-10T19:17|Candle lighting
+Haifa|2027-06-11T19:18|Candle lighting
+Haifa|2027-06-12T20:31|Havdalah
+# Israel parsha (i=on) where it differs from the Diaspora reading in the window:
+PARSHA_IL|2027-06-12|Nasso|פרשת נשא
+PARSHA_IL|2027-06-19|Beha'alotcha|פרשת בהעלתך
+PARSHA_IL|2027-06-26|Sh'lach|פרשת שלח־לך
+PARSHA_IL|2027-07-03|Korach|פרשת קורח
+PARSHA_IL|2027-07-10|Chukat|פרשת חוקת
+PARSHA_IL|2027-07-17|Balak|פרשת בלק
+# Israel 2027 Yom Tov (i=on): Pesach I 04-22 only; Shavuot 06-11 only; Sukkot I 10-16 only; Shmini Atzeret 10-23 only.
+# Extra: Tisha B'Av (far east + Europe) and Israel one-day Sukkot
+Melbourne|2027-08-11T17:41|Fast begins (Tisha B'Av, sunset)
+Melbourne|2027-08-12T18:11|Fast ends (Tisha B'Av)
+London|2027-08-11T20:31|Fast begins (Tisha B'Av, sunset)
+London|2027-08-12T21:11|Fast ends (Tisha B'Av)
+Jerusalem|2027-10-15T17:27|Candle lighting
+Jerusalem|2027-10-16T18:43|Havdalah (Israel: one-day Yom Tov)
+# Extra: Israel summer fasts (used to pin the Israel minor-fast end rule: 3.7 deg; Tisha B'Av 6.45 deg as in the Diaspora)
+Jerusalem|2027-07-22T04:25|Fast begins
+Jerusalem|2027-07-22T19:58|Fast ends
+Jerusalem|2027-08-11T19:27|Fast begins (Tisha B'Av, sunset)
+Jerusalem|2027-08-12T19:54|Fast ends (Tisha B'Av)

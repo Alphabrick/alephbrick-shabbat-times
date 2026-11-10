@@ -1,0 +1,146 @@
+city,date,kind,hebcal_time
+Brooklyn,2026-11-13,candles,16:21
+Brooklyn,2026-11-14,havdalah,17:22
+Brooklyn,2026-11-20,candles,16:16
+Brooklyn,2026-11-21,havdalah,17:17
+Brooklyn,2026-11-27,candles,16:12
+Brooklyn,2026-11-28,havdalah,17:15
+Brooklyn,2026-12-04,candles,16:10
+Brooklyn,2026-12-05,havdalah,17:13
+Brooklyn,2026-12-11,candles,16:10
+Brooklyn,2026-12-12,havdalah,17:14
+Brooklyn,2026-12-18,candles,16:12
+Brooklyn,2026-12-19,havdalah,17:16
+Chicago,2026-11-13,candles,16:13
+Chicago,2026-11-14,havdalah,17:15
+Chicago,2026-11-20,candles,16:07
+Chicago,2026-11-21,havdalah,17:10
+Chicago,2026-11-27,candles,16:03
+Chicago,2026-11-28,havdalah,17:07
+Chicago,2026-12-04,candles,16:01
+Chicago,2026-12-05,havdalah,17:06
+Chicago,2026-12-11,candles,16:01
+Chicago,2026-12-12,havdalah,17:06
+Chicago,2026-12-18,candles,16:03
+Chicago,2026-12-19,havdalah,17:08
+Miami,2026-11-13,candles,17:14
+Miami,2026-11-14,havdalah,18:08
+Miami,2026-11-20,candles,17:12
+Miami,2026-11-21,havdalah,18:06
+Miami,2026-11-27,candles,17:11
+Miami,2026-11-28,havdalah,18:06
+Miami,2026-12-04,candles,17:11
+Miami,2026-12-05,havdalah,18:07
+Miami,2026-12-11,candles,17:12
+Miami,2026-12-12,havdalah,18:08
+Miami,2026-12-18,candles,17:15
+Miami,2026-12-19,havdalah,18:11
+Phoenix,2026-11-13,candles,17:08
+Phoenix,2026-11-14,havdalah,18:05
+Phoenix,2026-11-20,candles,17:05
+Phoenix,2026-11-21,havdalah,18:02
+Phoenix,2026-11-27,candles,17:02
+Phoenix,2026-11-28,havdalah,18:01
+Phoenix,2026-12-04,candles,17:02
+Phoenix,2026-12-05,havdalah,18:00
+Phoenix,2026-12-11,candles,17:02
+Phoenix,2026-12-12,havdalah,18:02
+Phoenix,2026-12-18,candles,17:05
+Phoenix,2026-12-19,havdalah,18:04
+Seattle,2026-11-13,candles,16:16
+Seattle,2026-11-14,havdalah,17:23
+Los Angeles,2026-11-13,candles,16:32
+Los Angeles,2026-11-14,havdalah,17:29
+Denver,2026-11-13,candles,16:27
+Denver,2026-11-14,havdalah,17:27
+Lakewood,2026-11-13,candles,16:23
+Lakewood,2026-11-14,havdalah,17:24
+Brooklyn,2026-12-20,fast_begins_alot,05:47
+Brooklyn,2026-12-20,fast_ends_minor,17:09
+Brooklyn,2027-04-21,candles,19:23
+Brooklyn,2027-04-22,candles_after_tzeit,20:26
+Brooklyn,2027-04-23,candles,19:25
+Brooklyn,2027-04-24,havdalah,20:28
+Brooklyn,2027-04-27,candles,19:29
+Brooklyn,2027-04-28,candles_after_tzeit,20:33
+Brooklyn,2027-04-29,havdalah,20:34
+Brooklyn,2027-04-30,candles,19:32
+Brooklyn,2027-04-21,fast_begins_alot,04:40
+Brooklyn,2027-10-01,candles,18:20
+Brooklyn,2027-10-02,candles_after_tzeit,19:17
+Brooklyn,2027-10-03,havdalah,19:15
+Brooklyn,2027-10-04,fast_begins_alot,05:34
+Brooklyn,2027-10-04,fast_ends_minor,19:06
+Brooklyn,2027-10-08,candles,18:08
+Brooklyn,2027-10-09,havdalah,19:06
+Brooklyn,2027-10-10,candles,18:05
+Brooklyn,2027-10-11,havdalah,19:03
+Lakewood,2027-10-01,candles,18:21
+Lakewood,2027-10-02,candles_after_tzeit,19:18
+Lakewood,2027-10-03,havdalah,19:16
+Lakewood,2027-10-04,fast_begins_alot,05:36
+Lakewood,2027-10-04,fast_ends_minor,19:07
+Lakewood,2027-10-08,candles,18:10
+Lakewood,2027-10-09,havdalah,19:07
+Lakewood,2027-10-10,candles,18:07
+Lakewood,2027-10-11,havdalah,19:04
+Chicago,2027-10-01,candles,18:14
+Chicago,2027-10-02,candles_after_tzeit,19:12
+Chicago,2027-10-03,havdalah,19:10
+Chicago,2027-10-04,fast_begins_alot,05:28
+Chicago,2027-10-04,fast_ends_minor,19:01
+Chicago,2027-10-08,candles,18:02
+Chicago,2027-10-09,havdalah,19:00
+Chicago,2027-10-10,candles,17:59
+Chicago,2027-10-11,havdalah,18:57
+Denver,2027-10-01,candles,18:24
+Denver,2027-10-02,candles_after_tzeit,19:21
+Denver,2027-10-03,havdalah,19:19
+Denver,2027-10-04,fast_begins_alot,05:39
+Denver,2027-10-04,fast_ends_minor,19:10
+Denver,2027-10-08,candles,18:13
+Denver,2027-10-09,havdalah,19:10
+Denver,2027-10-10,candles,18:10
+Denver,2027-10-11,havdalah,19:07
+Phoenix,2027-10-01,candles,17:54
+Phoenix,2027-10-02,candles_after_tzeit,18:48
+Phoenix,2027-10-03,havdalah,18:47
+Phoenix,2027-10-04,fast_begins_alot,05:11
+Phoenix,2027-10-04,fast_ends_minor,18:39
+Phoenix,2027-10-08,candles,17:45
+Phoenix,2027-10-09,havdalah,18:39
+Phoenix,2027-10-10,candles,17:42
+Phoenix,2027-10-11,havdalah,18:37
+Los Angeles,2027-10-01,candles,18:19
+Los Angeles,2027-10-02,candles_after_tzeit,19:13
+Los Angeles,2027-10-03,havdalah,19:12
+Los Angeles,2027-10-04,fast_begins_alot,05:36
+Los Angeles,2027-10-04,fast_ends_minor,19:03
+Los Angeles,2027-10-08,candles,18:09
+Los Angeles,2027-10-09,havdalah,19:04
+Los Angeles,2027-10-10,candles,18:07
+Los Angeles,2027-10-11,havdalah,19:01
+Seattle,2027-10-01,candles,18:30
+Seattle,2027-10-02,candles_after_tzeit,19:32
+Seattle,2027-10-03,havdalah,19:30
+Seattle,2027-10-04,fast_begins_alot,05:41
+Seattle,2027-10-04,fast_ends_minor,19:20
+Seattle,2027-10-08,candles,18:16
+Seattle,2027-10-09,havdalah,19:18
+Seattle,2027-10-10,candles,18:12
+Seattle,2027-10-11,havdalah,19:15
+Miami,2027-10-01,candles,18:49
+Miami,2027-10-02,candles_after_tzeit,19:41
+Miami,2027-10-03,havdalah,19:39
+Miami,2027-10-04,fast_begins_alot,06:06
+Miami,2027-10-04,fast_ends_minor,19:32
+Miami,2027-10-08,candles,18:42
+Miami,2027-10-09,havdalah,19:33
+Miami,2027-10-10,candles,18:40
+Miami,2027-10-11,havdalah,19:31
+Brooklyn,2027-08-11,fast_begins_sunset,19:59
+Brooklyn,2027-08-12,fast_ends_tisha_bav,20:30
+Los Angeles,2027-08-11,fast_begins_sunset,19:44
+Los Angeles,2027-08-12,fast_ends_tisha_bav,20:12
+Seattle,2027-08-11,fast_begins_sunset,20:28
+Seattle,2027-08-12,fast_ends_tisha_bav,21:04

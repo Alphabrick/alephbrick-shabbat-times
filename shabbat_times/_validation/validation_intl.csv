@@ -1,0 +1,166 @@
+city,tz,calendar,date,kind,hebcal,ours,diff_min,ok
+Toronto,America/Toronto,Diaspora,2026-12-18,candles,16:24,16:24,0,PASS
+Toronto,America/Toronto,Diaspora,2026-12-19,end,17:31,17:31,0,PASS
+Toronto,America/Toronto,Diaspora,2026-12-20,fast_begin_alot,06:14,06:14,0,PASS
+Toronto,America/Toronto,Diaspora,2026-12-20,fast_end,17:23,17:23,0,PASS
+Montreal,America/Toronto,Diaspora,2026-12-18,candles,15:54,15:54,0,PASS
+Montreal,America/Toronto,Diaspora,2026-12-19,end,17:03,17:03,0,PASS
+Montreal,America/Toronto,Diaspora,2026-12-20,fast_begin_alot,05:54,05:54,0,PASS
+Montreal,America/Toronto,Diaspora,2026-12-20,fast_end,16:54,16:54,0,PASS
+London,Europe/London,Diaspora,2026-12-18,candles,15:34,15:34,0,PASS
+London,Europe/London,Diaspora,2026-12-19,end,16:51,16:51,0,PASS
+London,Europe/London,Diaspora,2026-12-20,fast_begin_alot,06:12,06:12,0,PASS
+London,Europe/London,Diaspora,2026-12-20,fast_end,16:41,16:41,0,PASS
+Paris,Europe/Paris,Diaspora,2026-12-18,candles,16:36,16:36,0,PASS
+Paris,Europe/Paris,Diaspora,2026-12-19,end,17:50,17:50,0,PASS
+Paris,Europe/Paris,Diaspora,2026-12-20,fast_begin_alot,06:56,06:56,0,PASS
+Paris,Europe/Paris,Diaspora,2026-12-20,fast_end,17:40,17:40,0,PASS
+Antwerp,Europe/Brussels,Diaspora,2026-12-18,candles,16:17,16:17,0,PASS
+Antwerp,Europe/Brussels,Diaspora,2026-12-19,end,17:34,17:34,0,PASS
+Antwerp,Europe/Brussels,Diaspora,2026-12-20,fast_begin_alot,06:53,06:53,0,PASS
+Antwerp,Europe/Brussels,Diaspora,2026-12-20,fast_end,17:24,17:24,0,PASS
+Johannesburg,Africa/Johannesburg,Diaspora,2026-12-18,candles,18:39,18:39,0,PASS
+Johannesburg,Africa/Johannesburg,Diaspora,2026-12-19,end,19:38,19:38,0,PASS
+Johannesburg,Africa/Johannesburg,Diaspora,2026-12-20,fast_begin_alot,03:52,03:52,0,PASS
+Johannesburg,Africa/Johannesburg,Diaspora,2026-12-20,fast_end,19:31,19:31,0,PASS
+Melbourne,Australia/Melbourne,Diaspora,2026-12-18,candles,20:22,20:22,0,PASS
+Melbourne,Australia/Melbourne,Diaspora,2026-12-19,end,21:28,21:28,0,PASS
+Melbourne,Australia/Melbourne,Diaspora,2026-12-20,fast_begin_alot,04:14,04:14,0,PASS
+Melbourne,Australia/Melbourne,Diaspora,2026-12-20,fast_end,21:19,21:19,0,PASS
+Buenos Aires,America/Argentina/Buenos_Aires,Diaspora,2026-12-18,candles,19:46,19:46,0,PASS
+Buenos Aires,America/Argentina/Buenos_Aires,Diaspora,2026-12-19,end,20:49,20:49,0,PASS
+Buenos Aires,America/Argentina/Buenos_Aires,Diaspora,2026-12-20,fast_begin_alot,04:04,04:04,0,PASS
+Buenos Aires,America/Argentina/Buenos_Aires,Diaspora,2026-12-20,fast_end,20:42,20:42,0,PASS
+Mexico City,America/Mexico_City,Diaspora,2026-12-18,candles,17:44,17:44,0,PASS
+Mexico City,America/Mexico_City,Diaspora,2026-12-19,end,18:38,18:38,0,PASS
+Mexico City,America/Mexico_City,Diaspora,2026-12-20,fast_begin_alot,05:55,05:55,0,PASS
+Mexico City,America/Mexico_City,Diaspora,2026-12-20,fast_end,18:32,18:32,0,PASS
+Jerusalem,Asia/Jerusalem,Israel,2026-12-18,candles,15:58,15:58,0,PASS
+Jerusalem,Asia/Jerusalem,Israel,2026-12-19,end,17:18,17:18,0,PASS
+Jerusalem,Asia/Jerusalem,Israel,2026-12-20,fast_begin_alot,05:17,05:17,0,PASS
+Jerusalem,Asia/Jerusalem,Israel,2026-12-20,fast_end,16:54,16:54,0,PASS
+Tel Aviv,Asia/Jerusalem,Israel,2026-12-18,candles,16:19,16:19,0,PASS
+Tel Aviv,Asia/Jerusalem,Israel,2026-12-19,end,17:19,17:19,0,PASS
+Tel Aviv,Asia/Jerusalem,Israel,2026-12-20,fast_begin_alot,05:19,05:19,0,PASS
+Tel Aviv,Asia/Jerusalem,Israel,2026-12-20,fast_end,16:55,16:55,0,PASS
+Bnei Brak,Asia/Jerusalem,Israel,2026-12-18,candles,16:18,16:18,0,PASS
+Bnei Brak,Asia/Jerusalem,Israel,2026-12-19,end,17:19,17:19,0,PASS
+Bnei Brak,Asia/Jerusalem,Israel,2026-12-20,fast_begin_alot,05:19,05:19,0,PASS
+Bnei Brak,Asia/Jerusalem,Israel,2026-12-20,fast_end,16:55,16:55,0,PASS
+Haifa,Asia/Jerusalem,Israel,2026-12-18,candles,16:06,16:06,0,PASS
+Haifa,Asia/Jerusalem,Israel,2026-12-19,end,17:17,17:17,0,PASS
+Haifa,Asia/Jerusalem,Israel,2026-12-20,fast_begin_alot,05:19,05:19,0,PASS
+Haifa,Asia/Jerusalem,Israel,2026-12-20,fast_end,16:52,16:52,0,PASS
+Jerusalem,Asia/Jerusalem,Israel,2027-04-21,candles,18:31,18:31,0,PASS
+Jerusalem,Asia/Jerusalem,Israel,2027-04-22,end,19:51,19:51,0,PASS
+Jerusalem,Asia/Jerusalem,Israel,2027-04-23,candles,18:33,18:33,0,PASS
+Jerusalem,Asia/Jerusalem,Israel,2027-04-24,end,19:52,19:52,0,PASS
+Toronto,America/Toronto,Diaspora,2027-04-21,fast_begin_alot,04:51,04:51,0,PASS
+Toronto,America/Toronto,Diaspora,2027-04-21,candles,19:50,19:50,0,PASS
+Toronto,America/Toronto,Diaspora,2027-04-22,candles_after,20:55,20:55,0,PASS
+Toronto,America/Toronto,Diaspora,2027-04-23,candles,19:52,19:52,0,PASS
+Toronto,America/Toronto,Diaspora,2027-04-24,end,20:58,20:58,0,PASS
+Montreal,America/Toronto,Diaspora,2027-04-21,fast_begin_alot,04:21,04:21,0,PASS
+Montreal,America/Toronto,Diaspora,2027-04-21,candles,19:30,19:30,0,PASS
+Montreal,America/Toronto,Diaspora,2027-04-22,candles_after,20:37,20:37,0,PASS
+Montreal,America/Toronto,Diaspora,2027-04-23,candles,19:32,19:32,0,PASS
+Montreal,America/Toronto,Diaspora,2027-04-24,end,20:40,20:40,0,PASS
+London,Europe/London,Diaspora,2027-04-21,fast_begin_alot,03:56,03:56,0,PASS
+London,Europe/London,Diaspora,2027-04-21,candles,19:48,19:48,0,PASS
+London,Europe/London,Diaspora,2027-04-22,candles_after,21:04,21:04,0,PASS
+London,Europe/London,Diaspora,2027-04-23,candles,19:52,19:52,0,PASS
+London,Europe/London,Diaspora,2027-04-24,end,21:08,21:08,0,PASS
+Paris,Europe/Paris,Diaspora,2027-04-21,fast_begin_alot,05:02,05:02,0,PASS
+Paris,Europe/Paris,Diaspora,2027-04-21,candles,20:32,20:32,0,PASS
+Paris,Europe/Paris,Diaspora,2027-04-22,candles_after,21:44,21:44,0,PASS
+Paris,Europe/Paris,Diaspora,2027-04-23,candles,20:35,20:35,0,PASS
+Paris,Europe/Paris,Diaspora,2027-04-24,end,21:47,21:47,0,PASS
+Antwerp,Europe/Brussels,Diaspora,2027-04-21,fast_begin_alot,04:40,04:40,0,PASS
+Antwerp,Europe/Brussels,Diaspora,2027-04-21,candles,20:29,20:29,0,PASS
+Antwerp,Europe/Brussels,Diaspora,2027-04-22,candles_after,21:44,21:44,0,PASS
+Antwerp,Europe/Brussels,Diaspora,2027-04-23,candles,20:33,20:33,0,PASS
+Antwerp,Europe/Brussels,Diaspora,2027-04-24,end,21:48,21:48,0,PASS
+Johannesburg,Africa/Johannesburg,Diaspora,2027-04-21,fast_begin_alot,05:17,05:17,0,PASS
+Johannesburg,Africa/Johannesburg,Diaspora,2027-04-21,candles,17:28,17:28,0,PASS
+Johannesburg,Africa/Johannesburg,Diaspora,2027-04-22,candles_after,18:20,18:20,0,PASS
+Johannesburg,Africa/Johannesburg,Diaspora,2027-04-23,candles,17:26,17:26,0,PASS
+Johannesburg,Africa/Johannesburg,Diaspora,2027-04-24,end,18:19,18:19,0,PASS
+Melbourne,Australia/Melbourne,Diaspora,2027-04-21,fast_begin_alot,05:33,05:33,0,PASS
+Melbourne,Australia/Melbourne,Diaspora,2027-04-21,candles,17:27,17:27,0,PASS
+Melbourne,Australia/Melbourne,Diaspora,2027-04-22,candles_after,18:24,18:24,0,PASS
+Melbourne,Australia/Melbourne,Diaspora,2027-04-23,candles,17:25,17:25,0,PASS
+Melbourne,Australia/Melbourne,Diaspora,2027-04-24,end,18:22,18:22,0,PASS
+Buenos Aires,America/Argentina/Buenos_Aires,Diaspora,2027-04-21,fast_begin_alot,06:06,06:06,0,PASS
+Buenos Aires,America/Argentina/Buenos_Aires,Diaspora,2027-04-21,candles,18:04,18:04,0,PASS
+Buenos Aires,America/Argentina/Buenos_Aires,Diaspora,2027-04-22,candles_after,18:59,18:59,0,PASS
+Buenos Aires,America/Argentina/Buenos_Aires,Diaspora,2027-04-23,candles,18:02,18:02,0,PASS
+Buenos Aires,America/Argentina/Buenos_Aires,Diaspora,2027-04-24,end,18:57,18:57,0,PASS
+Mexico City,America/Mexico_City,Diaspora,2027-04-21,fast_begin_alot,05:07,05:07,0,PASS
+Mexico City,America/Mexico_City,Diaspora,2027-04-21,candles,18:38,18:38,0,PASS
+Mexico City,America/Mexico_City,Diaspora,2027-04-22,candles_after,19:30,19:30,0,PASS
+Mexico City,America/Mexico_City,Diaspora,2027-04-23,candles,18:38,18:38,0,PASS
+Mexico City,America/Mexico_City,Diaspora,2027-04-24,end,19:31,19:31,0,PASS
+Tel Aviv,Asia/Jerusalem,Israel,2027-04-21,fast_begin_alot,04:49,04:49,0,PASS
+Tel Aviv,Asia/Jerusalem,Israel,2027-04-21,candles,18:54,18:54,0,PASS
+Tel Aviv,Asia/Jerusalem,Israel,2027-04-22,end,19:53,19:53,0,PASS
+Tel Aviv,Asia/Jerusalem,Israel,2027-04-23,candles,18:55,18:55,0,PASS
+Tel Aviv,Asia/Jerusalem,Israel,2027-04-24,end,19:54,19:54,0,PASS
+Bnei Brak,Asia/Jerusalem,Israel,2027-04-21,fast_begin_alot,04:49,04:49,0,PASS
+Bnei Brak,Asia/Jerusalem,Israel,2027-04-21,candles,18:53,18:53,0,PASS
+Bnei Brak,Asia/Jerusalem,Israel,2027-04-22,end,19:53,19:53,0,PASS
+Bnei Brak,Asia/Jerusalem,Israel,2027-04-23,candles,18:55,18:55,0,PASS
+Bnei Brak,Asia/Jerusalem,Israel,2027-04-24,end,19:54,19:54,0,PASS
+Haifa,Asia/Jerusalem,Israel,2027-04-21,fast_begin_alot,04:46,04:46,0,PASS
+Haifa,Asia/Jerusalem,Israel,2027-04-21,candles,18:44,18:44,0,PASS
+Haifa,Asia/Jerusalem,Israel,2027-04-22,end,19:53,19:53,0,PASS
+Haifa,Asia/Jerusalem,Israel,2027-04-23,candles,18:45,18:45,0,PASS
+Haifa,Asia/Jerusalem,Israel,2027-04-24,end,19:55,19:55,0,PASS
+Toronto,America/Toronto,Diaspora,2027-06-10,candles,20:40,20:40,0,PASS
+Toronto,America/Toronto,Diaspora,2027-06-11,candles,20:40,20:40,0,PASS
+Toronto,America/Toronto,Diaspora,2027-06-12,end,21:54,21:54,0,PASS
+Montreal,America/Toronto,Diaspora,2027-06-10,candles,20:24,20:24,0,PASS
+Montreal,America/Toronto,Diaspora,2027-06-11,candles,20:24,20:24,0,PASS
+Montreal,America/Toronto,Diaspora,2027-06-12,end,21:41,21:41,0,PASS
+London,Europe/London,Diaspora,2027-06-10,candles,20:58,20:58,0,PASS
+London,Europe/London,Diaspora,2027-06-11,candles,20:59,20:59,0,PASS
+London,Europe/London,Diaspora,2027-06-12,end,22:32,22:32,0,PASS
+Paris,Europe/Paris,Diaspora,2027-06-10,candles,21:34,21:34,0,PASS
+Paris,Europe/Paris,Diaspora,2027-06-11,candles,21:35,21:35,0,PASS
+Paris,Europe/Paris,Diaspora,2027-06-12,end,23:00,23:00,0,PASS
+Antwerp,Europe/Brussels,Diaspora,2027-06-10,candles,21:38,21:38,0,PASS
+Antwerp,Europe/Brussels,Diaspora,2027-06-11,candles,21:39,21:39,0,PASS
+Antwerp,Europe/Brussels,Diaspora,2027-06-12,end,23:11,23:11,0,PASS
+Johannesburg,Africa/Johannesburg,Diaspora,2027-06-10,candles,17:05,17:05,0,PASS
+Johannesburg,Africa/Johannesburg,Diaspora,2027-06-11,candles,17:05,17:05,0,PASS
+Johannesburg,Africa/Johannesburg,Diaspora,2027-06-12,end,18:01,18:01,0,PASS
+Melbourne,Australia/Melbourne,Diaspora,2027-06-10,candles,16:49,16:49,0,PASS
+Melbourne,Australia/Melbourne,Diaspora,2027-06-11,candles,16:49,16:49,0,PASS
+Melbourne,Australia/Melbourne,Diaspora,2027-06-12,end,17:50,17:50,0,PASS
+Buenos Aires,America/Argentina/Buenos_Aires,Diaspora,2027-06-10,candles,17:31,17:31,0,PASS
+Buenos Aires,America/Argentina/Buenos_Aires,Diaspora,2027-06-11,candles,17:31,17:31,0,PASS
+Buenos Aires,America/Argentina/Buenos_Aires,Diaspora,2027-06-12,end,18:30,18:30,0,PASS
+Mexico City,America/Mexico_City,Diaspora,2027-06-10,candles,18:56,18:56,0,PASS
+Mexico City,America/Mexico_City,Diaspora,2027-06-11,candles,18:56,18:56,0,PASS
+Mexico City,America/Mexico_City,Diaspora,2027-06-12,end,19:52,19:52,0,PASS
+Jerusalem,Asia/Jerusalem,Israel,2027-06-10,candles,19:04,19:04,0,PASS
+Jerusalem,Asia/Jerusalem,Israel,2027-06-11,candles,19:04,19:04,0,PASS
+Jerusalem,Asia/Jerusalem,Israel,2027-06-12,end,20:27,20:27,0,PASS
+Tel Aviv,Asia/Jerusalem,Israel,2027-06-10,candles,19:26,19:26,0,PASS
+Tel Aviv,Asia/Jerusalem,Israel,2027-06-11,candles,19:27,19:27,0,PASS
+Tel Aviv,Asia/Jerusalem,Israel,2027-06-12,end,20:30,20:30,0,PASS
+Bnei Brak,Asia/Jerusalem,Israel,2027-06-10,candles,19:26,19:26,0,PASS
+Bnei Brak,Asia/Jerusalem,Israel,2027-06-11,candles,19:26,19:26,0,PASS
+Bnei Brak,Asia/Jerusalem,Israel,2027-06-12,end,20:30,20:30,0,PASS
+Haifa,Asia/Jerusalem,Israel,2027-06-10,candles,19:17,19:17,0,PASS
+Haifa,Asia/Jerusalem,Israel,2027-06-11,candles,19:18,19:18,0,PASS
+Haifa,Asia/Jerusalem,Israel,2027-06-12,end,20:31,20:31,0,PASS
+Melbourne,Australia/Melbourne,Diaspora,2027-08-11,fast_begin_sunset,17:41,17:41,0,PASS
+Melbourne,Australia/Melbourne,Diaspora,2027-08-12,fast_end_tb,18:11,18:11,0,PASS
+London,Europe/London,Diaspora,2027-08-11,fast_begin_sunset,20:31,20:31,0,PASS
+London,Europe/London,Diaspora,2027-08-12,fast_end_tb,21:11,21:11,0,PASS
+Jerusalem,Asia/Jerusalem,Israel,2027-10-15,candles,17:27,17:27,0,PASS
+Jerusalem,Asia/Jerusalem,Israel,2027-10-16,end,18:43,18:43,0,PASS
+Jerusalem,Asia/Jerusalem,Israel,2027-07-22,fast_begin_alot,04:25,04:25,0,PASS
+Jerusalem,Asia/Jerusalem,Israel,2027-07-22,fast_end,19:58,19:58,0,PASS
+Jerusalem,Asia/Jerusalem,Israel,2027-08-11,fast_begin_sunset,19:27,19:27,0,PASS
+Jerusalem,Asia/Jerusalem,Israel,2027-08-12,fast_end_tb,19:54,19:54,0,PASS
