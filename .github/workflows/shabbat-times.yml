@@ -1,0 +1,58 @@
+# Aleph Brick - Shabbat / Yom Tov / Fast times. Lives at .github/workflows/shabbat-times.yml in the repo.
+# Free on a public repository. Nothing posts until the repository variable LIVE is set to 1 (dry run otherwise).
+name: ABC Shabbat times
+on:
+  schedule:
+    - cron: '7,22,37,52 * * * *'   # posting check every 15 min (UTC; the script works in America/New_York)
+    - cron: '3 6 * * 0'            # Sunday 06:03 UTC: generate the next 14 days (idempotent)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  issues: write
+concurrency: { group: shabbat-times, cancel-in-progress: false }
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    defaults: { run: { working-directory: shabbat_times } }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12', cache: 'pip' }
+      - name: Install (no paid services; fonts and logo are in the repo)
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq libraqm0
+          pip install -q -r requirements.txt
+          python -c "from PIL import features; assert features.check('raqm'), 'RAQM needed for Hebrew'"
+      - name: Generate next 14 days + checks (Sunday run or manual)
+        if: github.event.schedule == '3 6 * * 0' || github.event_name == 'workflow_dispatch'
+        run: |
+          python -B generate.py --upcoming 14 --jpeg
+          python -B validate.py
+          python -B ../tools/check_divine_name.py .
+      - name: Post due rows (dry run unless vars.LIVE == '1')
+        id: post
+        env:
+          LIVE: ${{ vars.LIVE }}
+          IG_STORY: ${{ vars.IG_STORY }}
+          META_GRAPH_VERSION: ${{ vars.META_GRAPH_VERSION }}
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
+          RAW_BASE: https://raw.githubusercontent.com/${{ github.repository }}/main/shabbat_times/output
+        run: |
+          python -B automation/post_meta.py | tee post.out
+          grep '^WHATSAPP_READY' post.out | cut -d' ' -f2 > wa.list || true
+      - name: WhatsApp hand-off (GitHub emails an issue with the text + image links)
+        env: { GH_TOKEN: '${{ github.token }}' }
+        run: |
+          while read -r F; do
+            [ -z "$F" ] && continue
+            { cat "output/$F/whatsapp.txt"; echo; echo "Images:"; for p in output/$F/*_1x1_*.png output/$F/*_4x5_*.png; do
+                echo "https://github.com/${{ github.repository }}/raw/main/shabbat_times/$p"; done; } > wa_body.md
+            gh issue create --title "WhatsApp: $F (post by hand, ~30 s)" --body-file wa_body.md
+          done < wa.list
+      - name: Commit generated files and posted.log
+        run: |
+          git config user.name "abc-shabbat-times-bot"; git config user.email "actions@users.noreply.github.com"
+          git add -A output && git commit -qm "Shabbat times: generate/post log" && git push || echo "nothing to commit"
