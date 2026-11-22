@@ -1,0 +1,27 @@
+city,country,tz,calendar,column,date,what,local_time
+Toronto,Canada,America/Toronto,Diaspora,c0,2026-12-04,candles,2026-12-04 16:23
+Toronto,Canada,America/Toronto,Diaspora,end,2026-12-05,end,2026-12-05 17:28
+Montreal,Canada,America/Toronto,Diaspora,c0,2026-12-04,candles,2026-12-04 15:53
+Montreal,Canada,America/Toronto,Diaspora,end,2026-12-05,end,2026-12-05 17:01
+Mexico City,Mexico,America/Mexico_City,Diaspora,c0,2026-12-04,candles,2026-12-04 17:39
+Mexico City,Mexico,America/Mexico_City,Diaspora,end,2026-12-05,end,2026-12-05 18:33
+Buenos Aires,Argentina,America/Argentina/Buenos_Aires,Diaspora,c0,2026-12-04,candles,2026-12-04 19:36
+Buenos Aires,Argentina,America/Argentina/Buenos_Aires,Diaspora,end,2026-12-05,end,2026-12-05 20:39
+London,UK,Europe/London,Diaspora,c0,2026-12-04,candles,2026-12-04 15:35
+London,UK,Europe/London,Diaspora,end,2026-12-05,end,2026-12-05 16:50
+Paris,France,Europe/Paris,Diaspora,c0,2026-12-04,candles,2026-12-04 16:37
+Paris,France,Europe/Paris,Diaspora,end,2026-12-05,end,2026-12-05 17:48
+Antwerp,Belgium,Europe/Brussels,Diaspora,c0,2026-12-04,candles,2026-12-04 16:18
+Antwerp,Belgium,Europe/Brussels,Diaspora,end,2026-12-05,end,2026-12-05 17:33
+Johannesburg,South Africa,Africa/Johannesburg,Diaspora,c0,2026-12-04,candles,2026-12-04 18:30
+Johannesburg,South Africa,Africa/Johannesburg,Diaspora,end,2026-12-05,end,2026-12-05 19:28
+Melbourne,Australia,Australia/Melbourne,Diaspora,c0,2026-12-04,candles,2026-12-04 20:11
+Melbourne,Australia,Australia/Melbourne,Diaspora,end,2026-12-05,end,2026-12-05 21:17
+Jerusalem,Israel,Asia/Jerusalem,Israel,i0_0,2026-12-04,candles,2026-12-04 15:54
+Jerusalem,Israel,Asia/Jerusalem,Israel,ie0,2026-12-05,end,2026-12-05 17:14
+Tel Aviv,Israel,Asia/Jerusalem,Israel,i0_0,2026-12-04,candles,2026-12-04 16:15
+Tel Aviv,Israel,Asia/Jerusalem,Israel,ie0,2026-12-05,end,2026-12-05 17:16
+Bnei Brak,Israel,Asia/Jerusalem,Israel,i0_0,2026-12-04,candles,2026-12-04 16:15
+Bnei Brak,Israel,Asia/Jerusalem,Israel,ie0,2026-12-05,end,2026-12-05 17:15
+Haifa,Israel,Asia/Jerusalem,Israel,i0_0,2026-12-04,candles,2026-12-04 16:03
+Haifa,Israel,Asia/Jerusalem,Israel,ie0,2026-12-05,end,2026-12-05 17:13
